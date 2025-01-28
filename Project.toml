@@ -1,0 +1,7 @@
+name = "jvap"
+uuid = "bb7bac87-f916-4f0e-b1f6-cef9b2992d29"
+authors = ["pouyan <pouyank13@me.com>"]
+version = "0.1.0"
+
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
